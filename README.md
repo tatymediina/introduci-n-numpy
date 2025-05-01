@@ -1,6 +1,6 @@
-# Primeros Pasos con Python 🐍
+# Primeros Pasos con NUMPY
 
-Este proyecto es una introducción básica al lenguaje de programación **Python**, orientado a quienes recién comienzan. A través de ejemplos simples en **Jupyter Notebook**, se exploran las funciones principales del lenguaje y el uso de librerías esenciales como **NumPy**.
+Este proyecto es una introducción básica a la biblioteca **NumPy** y sus principales funciones.
 
 ## Tecnologías utilizadas
 
