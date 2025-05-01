@@ -14,9 +14,9 @@ Este proyecto es una introducción básica a la biblioteca **NumPy** y sus princ
 1. Asegurate de tener instalado Python 3.
 2. Cloná este repositorio o descargalo como `.zip`.  
 
-`git clone https://github.com/tatymediina/python-introduction.git`
+`git clone https://github.com/tatymediina/introducion-numpy`
 
-`cd python-introduction`
+`cd introducion-numpy`
 
 Crear un entorno virtual (recomendado)
 Con venv (Python 3):
